@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/rv/AndroidStudioProjects/Do-NateINDIA/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/rv/.android/build-cache/dc5ea23d51297f950c38e1f8607a311fbf1f84ff/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/rv/AndroidStudioProjects/Do-NateINDIA/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/rv/.android/build-cache/dc5ea23d51297f950c38e1f8607a311fbf1f84ff/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/rv/AndroidStudioProjects/Do-NateINDIA/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/rv/.android/build-cache/dc5ea23d51297f950c38e1f8607a311fbf1f84ff/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/rv/AndroidStudioProjects/Do-NateINDIA/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/rv/.android/build-cache/dc5ea23d51297f950c38e1f8607a311fbf1f84ff/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

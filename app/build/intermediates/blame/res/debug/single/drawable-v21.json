@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/rv/AndroidStudioProjects/Do-NateINDIA/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/home/rv/.android/build-cache/08613d5bc21bc67f193f84b85c2b6360e0b9d418/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/rv/AndroidStudioProjects/Do-NateINDIA/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/rv/.android/build-cache/dc5ea23d51297f950c38e1f8607a311fbf1f84ff/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/rv/AndroidStudioProjects/Do-NateINDIA/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/home/rv/.android/build-cache/08613d5bc21bc67f193f84b85c2b6360e0b9d418/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/rv/AndroidStudioProjects/Do-NateINDIA/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/rv/.android/build-cache/dc5ea23d51297f950c38e1f8607a311fbf1f84ff/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/rv/AndroidStudioProjects/Do-NateINDIA/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/home/rv/.android/build-cache/08613d5bc21bc67f193f84b85c2b6360e0b9d418/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/home/rv/AndroidStudioProjects/Do-NateINDIA/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/rv/.android/build-cache/dc5ea23d51297f950c38e1f8607a311fbf1f84ff/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/rv/AndroidStudioProjects/Do-NateINDIA/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/home/rv/.android/build-cache/08613d5bc21bc67f193f84b85c2b6360e0b9d418/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/home/rv/AndroidStudioProjects/Do-NateINDIA/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/rv/.android/build-cache/dc5ea23d51297f950c38e1f8607a311fbf1f84ff/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]

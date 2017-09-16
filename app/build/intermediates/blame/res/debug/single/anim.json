@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/home/rv/AndroidStudioProjects/Do-NateINDIA/app/build/intermediates/res/merged/debug/anim/tooltip_exit.xml",
+        "source": "/home/rv/.android/build-cache/511541e2d1bf53893ae38bb322c71449c6682bb5/output/res/anim/tooltip_exit.xml"
+    },
+    {
+        "merged": "/home/rv/AndroidStudioProjects/Do-NateINDIA/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/home/rv/.android/build-cache/08613d5bc21bc67f193f84b85c2b6360e0b9d418/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/rv/AndroidStudioProjects/Do-NateINDIA/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/rv/.android/build-cache/dc5ea23d51297f950c38e1f8607a311fbf1f84ff/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/rv/AndroidStudioProjects/Do-NateINDIA/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/rv/.android/build-cache/dc5ea23d51297f950c38e1f8607a311fbf1f84ff/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/rv/AndroidStudioProjects/Do-NateINDIA/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/rv/.android/build-cache/dc5ea23d51297f950c38e1f8607a311fbf1f84ff/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/rv/AndroidStudioProjects/Do-NateINDIA/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/rv/.android/build-cache/dc5ea23d51297f950c38e1f8607a311fbf1f84ff/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/rv/AndroidStudioProjects/Do-NateINDIA/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/home/rv/.android/build-cache/08613d5bc21bc67f193f84b85c2b6360e0b9d418/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/home/rv/AndroidStudioProjects/Do-NateINDIA/app/build/intermediates/res/merged/debug/anim/tooltip_enter.xml",
+        "source": "/home/rv/.android/build-cache/511541e2d1bf53893ae38bb322c71449c6682bb5/output/res/anim/tooltip_enter.xml"
+    },
+    {
+        "merged": "/home/rv/AndroidStudioProjects/Do-NateINDIA/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/home/rv/.android/build-cache/08613d5bc21bc67f193f84b85c2b6360e0b9d418/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/home/rv/AndroidStudioProjects/Do-NateINDIA/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/rv/.android/build-cache/dc5ea23d51297f950c38e1f8607a311fbf1f84ff/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/rv/AndroidStudioProjects/Do-NateINDIA/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/rv/.android/build-cache/dc5ea23d51297f950c38e1f8607a311fbf1f84ff/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/rv/AndroidStudioProjects/Do-NateINDIA/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/home/rv/.android/build-cache/08613d5bc21bc67f193f84b85c2b6360e0b9d418/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/rv/AndroidStudioProjects/Do-NateINDIA/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/rv/.android/build-cache/dc5ea23d51297f950c38e1f8607a311fbf1f84ff/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/rv/AndroidStudioProjects/Do-NateINDIA/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/rv/.android/build-cache/dc5ea23d51297f950c38e1f8607a311fbf1f84ff/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/rv/AndroidStudioProjects/Do-NateINDIA/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/rv/.android/build-cache/dc5ea23d51297f950c38e1f8607a311fbf1f84ff/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/rv/AndroidStudioProjects/Do-NateINDIA/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/rv/.android/build-cache/dc5ea23d51297f950c38e1f8607a311fbf1f84ff/output/res/anim/abc_slide_out_bottom.xml"
+    }
+]

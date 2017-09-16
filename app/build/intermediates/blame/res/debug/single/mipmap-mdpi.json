@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/rv/AndroidStudioProjects/Do-NateINDIA/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_person_add_black_24dp.png",
+        "source": "/home/rv/AndroidStudioProjects/Do-NateINDIA/app/src/main/res/mipmap-mdpi/ic_person_add_black_24dp.png"
+    },
+    {
+        "merged": "/home/rv/AndroidStudioProjects/Do-NateINDIA/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_person_black_24dp.png",
+        "source": "/home/rv/AndroidStudioProjects/Do-NateINDIA/app/src/main/res/mipmap-mdpi/ic_person_black_24dp.png"
+    },
+    {
+        "merged": "/home/rv/AndroidStudioProjects/Do-NateINDIA/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_home_black_24dp.png",
+        "source": "/home/rv/AndroidStudioProjects/Do-NateINDIA/app/src/main/res/mipmap-mdpi/ic_home_black_24dp.png"
+    },
+    {
+        "merged": "/home/rv/AndroidStudioProjects/Do-NateINDIA/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_search_black_24dp.png",
+        "source": "/home/rv/AndroidStudioProjects/Do-NateINDIA/app/src/main/res/mipmap-mdpi/ic_search_black_24dp.png"
+    },
+    {
+        "merged": "/home/rv/AndroidStudioProjects/Do-NateINDIA/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/rv/AndroidStudioProjects/Do-NateINDIA/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]

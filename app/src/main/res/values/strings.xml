@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Do-Nate INDIA</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="not_a_member_sign_up">Not a member? Sign Up</string>
+    <string name="password">Password</string>
+    <string name="password_confirm">Confirm Password</string>
+    <string name="sign_in">Sign IN</string>
+    <string name="register">Register</string>
+
+    <string name="error_registered">Already a Member? Log In</string>
+    <string name="notregistered">Please Register First</string>
+    <string name="error_name">Enter Full Name</string>
+    <string name="error_email">Enter Valid Email</string>
+
+    <string name="error_password">Enter Password</string>
+    <string name="error_passwordMismatch">Password mismatch. Enter again!</string>
+
+    <string name="registered">Registration Successful</string>
+
+    <string name="donor_name">Name</string>
+
+    <string name="welcome">"Welcome %s"</string>
+    <string name="nameFromIntent">"%s"</string>
+    <string name="toast">This is a Toast</string>
+
+    <string name="home">Home</string>
+    <string name="donor">Donor</string>
+    <string name="search_ngo">Search NGO</string>
+    <string name="support">Support</string>
+    <string name="about">About</string>
+</resources>

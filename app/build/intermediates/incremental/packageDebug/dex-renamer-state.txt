@@ -1,0 +1,7 @@
+#Sat Sep 16 20:19:23 IST 2017
+base.0=/home/rv/AndroidStudioProjects/Do-NateINDIA/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d5de61cf7e5839b44f74f8aa4adac82c5f6039d4
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/rv/AndroidStudioProjects/Do-NateINDIA/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d728deb45c2c3a617c8953184f4f3da636e7bb56/classes.dex
+base.1=/home/rv/AndroidStudioProjects/Do-NateINDIA/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d728deb45c2c3a617c8953184f4f3da636e7bb56
+file.0=/home/rv/AndroidStudioProjects/Do-NateINDIA/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d5de61cf7e5839b44f74f8aa4adac82c5f6039d4/classes.dex
